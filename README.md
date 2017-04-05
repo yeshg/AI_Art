@@ -4,4 +4,4 @@ To run the code: need an installation of Caffe with built pycaffe libraries, as 
 
 This code was based on the [deepdream code](https://github.com/google/deepdream) shared by Google, as well as the [code](https://github.com/kylemcdonald/deepdream/blob/master/dream.ipynb) by Kyle McDonald and Auduno's article and [code](https://github.com/auduno/deepdraw) on visualizations with GoogleNet. The idea of using bilateral filtering comes from Mike Tyka.
 
-https://gist.github.com/yrevar/942d3a0ac09ec9e5eb3a - image net class id to class
+[Image net class id and class table](https://gist.github.com/yrevar/942d3a0ac09ec9e5eb3a) - image net class id to class

@@ -1,6 +1,6 @@
 import numpy as np
 import cv2
-img = cv2.imread("GoogLeNet_deepdraw_raw_76.jpg")
+img = cv2.imread("GoogLeNet_deepdraw_denoised_79.jpg")
 
 def nothing(*arg):
     pass
